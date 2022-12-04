@@ -1,0 +1,31 @@
+.userCard {
+  margin-top: 3%;
+  text-align: center;
+}
+
+.usertext {
+  margin-top: 3%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 600;
+  color: rgb(58, 57, 57);
+}
+.blockButton {
+  margin-left: 3%;
+  background-color: rgb(155, 153, 153);
+  border-collapse: collapse;
+  border-radius: 12px;
+  width: 200px;
+  height: 35px;
+  border: none;
+  justify-content: center;
+}
+.unBlockButton {
+  margin-left: 3%;
+  background-color: cornflowerblue;
+  border-collapse: collapse;
+  border-radius: 12px;
+  width: 200px;
+  height: 35px;
+  border: none;
+  justify-content: center;
+}

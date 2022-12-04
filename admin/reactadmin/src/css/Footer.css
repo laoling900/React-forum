@@ -1,0 +1,22 @@
+ul,
+li {
+  list-style: none;
+}
+
+li {
+  width: 12rem;
+}
+
+.link {
+  text-decoration: none;
+  color: gray;
+}
+
+.footSpan{
+  text-align: center;
+  color: grey;
+}
+
+.foot{
+ background-color:rgb(167, 164, 164);
+}

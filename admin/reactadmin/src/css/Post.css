@@ -1,0 +1,42 @@
+.deleteButton {
+  margin-left: 3%;
+  background-color: rgb(155, 153, 153);
+  border-collapse: collapse;
+  border-radius: 12px;
+  width: 200px;
+  height: 35px;
+  border: none;
+  justify-content: center;
+}
+
+.RecoverButton {
+  margin-left: 3%;
+  background-color: cornflowerblue;
+  border-collapse: collapse;
+  border-radius: 12px;
+  width: 200px;
+  height: 35px;
+  border: none;
+  justify-content: center;
+}
+.postTable {
+  max-width: 20%;
+  max-height: 8%;
+}
+
+.postCard {
+  margin-top: 3%;
+  text-align: center;
+}
+.imgTable {
+  max-width: 20%;
+  max-height: 30%;
+  width: auto;
+  height: auto;
+
+}
+
+.inappro{
+  font-size: 1.5rem;
+  color: rgb(243, 42, 42) !important;
+}

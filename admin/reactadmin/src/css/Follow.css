@@ -1,0 +1,21 @@
+.followCard{
+    margin-top: 3%;
+    text-align: center;
+    border: none;
+   
+}
+.followtext{
+    margin-top: 3%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-weight: 600;
+    color: rgb(58, 57, 57);
+}
+.followbar{
+    text-align: center;
+    margin-left: 18%;
+   
+}
+
+/* .btn:focus{
+    background-color: cornflowerblue;
+} */
