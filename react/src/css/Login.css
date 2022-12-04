@@ -1,0 +1,26 @@
+.welcometext{
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color:cornflowerblue;  
+}
+.loginpage{
+    background-image:url("../../public/bg-2.png");
+}
+.welcomeCard{
+    border: transparent;
+    background-color: transparent;
+
+}
+.loginCard{
+    border: transparent;
+    background-color: transparent;
+
+}
+.sumbitButton{
+    background-color: cornflowerblue;
+    border-collapse: collapse;
+    border-radius:12px;  
+    width: 400px;
+    height: 40px;
+    border: none;
+    justify-content: center;
+}

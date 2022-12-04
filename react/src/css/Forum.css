@@ -1,0 +1,24 @@
+.link1 {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-weight:600;
+}
+
+ .link1 ::content {
+   background-color: aqua;
+ }
+ 
+ .forumNav{
+  background-color: azure;
+  margin-left: -80% ;
+  margin-right: -400%;
+}
+
+.forumItem{
+ padding-bottom: 10%;
+
+}
+
+.forumRow{
+  margin-right: 85%;
+}

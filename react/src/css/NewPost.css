@@ -1,0 +1,45 @@
+
+.newPostcard{
+    width: 30rem;
+    height: 30rem;
+    margin-left: 60%;
+    background-image: url("../../public/bg-11.png");
+    background-size: 100% 100%;
+    border: none;
+}
+.newpostform{
+
+    margin-left: 10%;
+    margin-top: -6%;
+}
+.reactquillCol{
+    width: 46.5rem;
+    margin-top: -2.5%;
+
+}
+.quill{
+    margin-top: 1.5%;
+    height: 200px;
+}
+
+.postButton{
+    background-color: cornflowerblue;
+    border-collapse: collapse;
+    border-radius:12px;  
+    width: 10rem;
+    height: 35px;
+    border: none;
+    justify-content: center;
+    color: aliceblue;
+    margin-left: 2%;
+}
+
+.d1{
+    background-color: #B0E0E6;
+    width: 45rem;
+}
+
+.d2{
+    background-color: #B0E0E6;
+    width: 45rem;
+}

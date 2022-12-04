@@ -1,0 +1,10 @@
+node_modules
+*.pack
+react/node_modules
+react/node_modules
+express/node_modules
+express/node_modules
+node_modules
+expressadmin/node_modules
+reactadmin/node_modules
+express/node_modules/argon2/lib/binding/napi-v3/argon2.node

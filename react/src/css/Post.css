@@ -1,0 +1,46 @@
+
+.formtext{
+    border-top: none;
+    border-left: none;
+    border-right: none ;
+}
+
+.photoButton{
+    color: #ffa500;
+    border: none;
+    padding-right: 52rem;
+   
+}
+
+ .postButton{
+   margin-right: 800px;
+   margin-top: 10px;
+   color:grey;
+   background-color: darkgrey;
+   border: none;
+    
+ }
+
+ .d1{
+  background-color: #B0E0E6;
+  height: 4rem;
+  margin: 1rem;
+  font-size: 1.5rem;
+  padding-top: 0.4rem;
+ }
+
+ .d2{
+  background-color: #B0E0E6;
+  height: 4rem;
+ }
+
+ .avatar{
+  margin-right: 0.6rem;
+ }
+
+.picLabel{
+ background-image: url("../../public/camera.png");
+ color:transparent;
+ background-size: contain;
+ background-repeat: no-repeat;
+}

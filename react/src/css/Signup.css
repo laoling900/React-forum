@@ -1,0 +1,13 @@
+.signuppage{
+    background-image:url("../../public/bg-5.png");
+}
+.signupButton{
+    background-color: cornflowerblue;
+    border-collapse: collapse;
+  
+    border-radius:12px;  
+    width: 400px;
+    height: 40px;
+    border: none;
+    justify-content: center;
+}

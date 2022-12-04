@@ -1,0 +1,85 @@
+.reply1Div {
+  padding: 2rem;
+  background-color: #dff9fb;
+  margin-right: 3.3%;
+}
+
+.btnlike {
+  cursor: pointer;
+  box-sizing: border-box;
+  border: 0;
+  padding: 0px 20px;
+  font-size: 18px;
+  line-height: 30px;
+  color: #74777d;
+  background-color: transparent;
+  outline: none;
+}
+
+.likeButton,
+.disikeButton {
+  color: rgb(236, 86, 86);
+}
+
+.followbutton {
+  text-decoration: none;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+
+.edit {
+  text-decoration: none;
+  padding: 2rem;
+  color: rgb(1, 1, 31);
+  margin-left: 2rem;
+  background-color: transparent;
+  border: none;
+}
+
+.delete {
+  padding: 2rem;
+  color: red;
+  border: none;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.ava {
+  width: 3rem;
+}
+.name {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: cornflowerblue;
+  font-weight: 600;
+  margin-left: -88%;
+  margin-right:20%;
+  margin-bottom: 9%;
+  padding-top: 4.5%;
+}
+.othername {
+  margin-bottom: 50px;
+  padding-top: 20px;
+  color: cornflowerblue;
+  font-weight: 600;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.allPostdiv {
+  background-color: #dff9fb;
+  color: #dff9fb;
+}
+
+.replydiv {
+  border-color: rgb(209, 206, 206);
+  margin-left: -1.4%;
+  margin-right: 2.1%;
+}
+.eachPostText{
+  font-size:x-large;
+  margin-bottom: 2%;
+}
+
+.eachReplyText{
+  font-size: large;
+  margin-bottom: 1.5%;
+}

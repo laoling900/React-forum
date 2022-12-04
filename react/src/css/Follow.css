@@ -1,0 +1,67 @@
+.userProfileCard{
+    width: 35rem;
+    background-color:azure;
+}
+
+.followUserCard{
+    width: 35rem;
+    background-color:azure;
+    text-align: center;
+    margin-top: 17.5% !important;
+
+}
+.followingUserCard{
+    width: 35rem;
+    background-color:azure;
+    text-align: center;
+}
+
+.leftCard{
+    width: 40rem;
+    height: 50rem;
+    border:none;
+}
+
+.picCard {
+    background-image: url("../../public/bg-7.png");
+    height: 25rem;
+    width:35rem;
+    background-size: 100% 100%;
+    border: none;
+    
+} 
+
+
+.selectButton{
+    background-color: cornflowerblue;
+    border-collapse: collapse;
+    border-radius:12px;  
+    width: 200px;
+    height: 35px;
+    border: none;
+    justify-content: center;
+}
+.cardtitle{
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-weight: 600;
+    color: midnightblue;
+}
+.nobodyText{
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-style: oblique;
+    font-size: large;
+    height: 6rem;
+}
+.profileContext{
+    margin-left: -80%;
+}
+.followButton{
+    margin-left: 3%;
+    background-color: cornflowerblue;
+    border-collapse: collapse;
+    border-radius:12px;  
+    width: 200px;
+    height: 35px;
+    border: none;
+    justify-content: center;
+}

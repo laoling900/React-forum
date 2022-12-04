@@ -1,0 +1,36 @@
+.home {
+  height: 800px;
+  width: 100%;
+  background-position: center, center;
+  background-size: cover;
+  background-image: url("../../public/bg-home.png");
+}
+
+.homeText {
+  padding-top: 40%;
+  justify-content: center;
+}
+
+.HomeButtom {
+  margin-left: 10%;
+  background-color: cornflowerblue;
+  border-collapse: collapse;
+  border-radius: 12px;
+  width: 320px;
+  height: 40px;
+  border: none;
+  justify-content: center;
+}
+
+.left {
+  width: 60rem;
+}
+
+.right {
+  background-color: transparent;
+  border: none;
+}
+
+.h1text {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
